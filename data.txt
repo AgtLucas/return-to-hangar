@@ -1,6 +1,6 @@
-Jason Bourne  M27IAR  2000  1
-Jason Bourne  AK12  1500  2
-Jason Bourne  M4  1800  4
-Aaron Cross  AN94  1900  1
-Aaron Cross  HK416  2100  1
-Aaron Cross  M4  1800  2
+Jason Bourne	M27IAR	2000	1
+Jason Bourne	AK12	1500	2
+Jason Bourne	M4	1800	4
+Aaron Cross	AN94	1900	1
+Aaron Cross	HK416	2100	1
+Aaron Cross	M4	1800	2
